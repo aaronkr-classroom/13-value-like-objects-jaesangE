@@ -131,6 +131,7 @@
     <ClCompile Include="grade.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="median.cpp" />
+    <ClCompile Include="str.cpp" />
     <ClCompile Include="Student_info.cpp" />
     <ClCompile Include="util.cpp" />
   </ItemGroup>
@@ -138,6 +139,7 @@
     <ClInclude Include="analysis.h" />
     <ClInclude Include="grade.h" />
     <ClInclude Include="median.h" />
+    <ClInclude Include="str.h" />
     <ClInclude Include="Student_info.h" />
     <ClInclude Include="util.h" />
     <ClInclude Include="Vec.h" />
